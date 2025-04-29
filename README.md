@@ -9,9 +9,12 @@
 
 - 📫 How to reach me **rohithkrishnakumark@gmail.com**
 
+- ⚡ Fun fact **ECE is not easy**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rohith-krish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohith-krish/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rohithkrishk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohithkrishk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
